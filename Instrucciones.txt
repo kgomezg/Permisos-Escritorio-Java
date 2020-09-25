@@ -9,3 +9,11 @@
 3. Ejecutar los archivos de extensión .sql de la carpeta sql en el orden en que aparecen.
 
 4. Ejecutar el codigo.
+
+5. Usuario y Clave:
+
+Admin
+Ean2020
+
+kcgomezg
+Ean2020
