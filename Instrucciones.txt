@@ -1,0 +1,11 @@
+1. Abrir el código y editar el archivo de nombre "config.xml" encontrado en la ruta "permisosUsuarios\src\permisos\utilitario\files" (para IDE se encuenttra en el paquete "permisos.utilitario.files".
+
+2. 
+2.1. Donde dice "KEVIN", poner el nombre del servidor (revisar el nombre cuando se conecta al sql management studio).
+2.2. Donde dice "1433", poner el puerto del servidor (por defecto es 1433 si es sql server).
+2.3. Donde dice "permisosUsuario", dejarlo tal cual como esta.
+
+
+3. Ejecutar los archivos de extensión .sql de la carpeta sql en el orden en que aparecen.
+
+4. Ejecutar el codigo.
