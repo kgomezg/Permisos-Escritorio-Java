@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config>
+    <bd>
+        <server>KEVIN</server>
+        <puerto>1433</puerto>
+        <baseDatos>permisosUsuario</baseDatos>
+    </bd>
+</config>
