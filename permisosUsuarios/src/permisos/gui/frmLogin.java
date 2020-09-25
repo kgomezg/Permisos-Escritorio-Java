@@ -25,9 +25,6 @@ public class frmLogin extends javax.swing.JFrame {
     public frmLogin() {
         initComponents();
 
-        inUsuario.setText("kcgomezg");
-        inClave.setText("Ean2020");
-
         // Agrego validación de cerrar sesión.
         frmLogin.this.addWindowListener(new java.awt.event.WindowAdapter() {
             @Override
